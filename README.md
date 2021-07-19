@@ -7,4 +7,4 @@
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ...[LinkedIn] (https://www.linkedin.com/in/aniketpatil29)
 - 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ... I can code😉
+- ⚡ Fun fact: ... I can speak four languages!
