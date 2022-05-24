@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Patil</h1>
 <h3 align="center">A passionate Full Stack developer !</h3>
 
-<p align="left"> <a href="https://twitter.com/anikk_8" target="blank"><img src="https://img.shields.io/twitter/follow/aniketp22794073?logo=twitter&style=for-the-badge" alt="aniketp22794073" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/aniketpatil03](https://github.com/aniketpatil03)
 
 - 💬 Ask me about **Python and Web-Design**
