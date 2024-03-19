@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Patil</h1>
-<h3 align="center">A passionate Full Stack developer !</h3>
+<h3 align="center">A passionate Automation Test Analyst !</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aniketpatil03](https://github.com/aniketpatil03)
 
