@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Patil</h1>
-<h3 align="center">A passionate indivisual. continously learning & evolving  !</h3>
+<h3 align="center">A passionate enthusiastic indivisual. continously learning & evolving little by little !</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aniketpatil03](https://github.com/aniketpatil03)
 
